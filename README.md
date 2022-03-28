@@ -2,9 +2,9 @@
 
 My smart practices of writing smart contract during FEM course - ["A Tour of Web 3: Ethereum & Smart Contracts with Solidity"](https://frontendmasters.com/courses/web3-smart-contracts/)
 
----
-
 ## Not random notes
+
+### Basics
 
 ABI - Application Binary Interface
 
@@ -49,9 +49,7 @@ The Read Only Function
 
 [Rinkeby Testnet](https://faucets.chain.link/rinkeby)
 
----
-
-Game Contract
+### Game Contract
 
 ```sol
 function getSomething() public view returns (uint[] memory) {
