@@ -51,7 +51,7 @@ The Read Only Function
 
 ### Game Contract
 
-```sol
+```solidity
 function getSomething() public view returns (uint[] memory) {
   // `memory`: memory that's created within a function
   // `storage`: memory that's stored on the contract
