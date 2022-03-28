@@ -1,0 +1,26 @@
+{
+  "name": "gm-web3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "caaatisgood <almigod0718@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.5",
+    "@nomiclabs/hardhat-waffle": "^2.0.3",
+    "@types/chai": "^4.3.0",
+    "@types/mocha": "^9.1.0",
+    "@types/node": "^17.0.21",
+    "chai": "^4.3.6",
+    "dotenv": "^16.0.0",
+    "ethereum-waffle": "^4.0.0-alpha.0",
+    "ethers": "^5.6.1",
+    "hardhat": "^2.9.1",
+    "html-webpack-plugin": "^5.5.0",
+    "ts-loader": "^9.2.8",
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.2",
+    "webpack": "^5.70.0",
+    "webpack-cli": "^4.9.2",
+    "webpack-dev-server": "^4.7.4"
+  }
+}
