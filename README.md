@@ -2,7 +2,7 @@
 
 My smart practices of writing smart contract during FEM course - ["A Tour of Web 3: Ethereum & Smart Contracts with Solidity"](https://frontendmasters.com/courses/web3-smart-contracts/)
 
---
+---
 
 ## Not random notes
 
@@ -49,7 +49,7 @@ The Read Only Function
 
 [Rinkeby Testnet](https://faucets.chain.link/rinkeby)
 
---
+---
 
 Game Contract
 
