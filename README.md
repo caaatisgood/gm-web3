@@ -1,3 +1,11 @@
+# gm-web3
+
+My smart practices of writing smart contract during FEM course - ["A Tour of Web 3: Ethereum & Smart Contracts with Solidity"](https://frontendmasters.com/courses/web3-smart-contracts/)
+
+--
+
+## Not random notes
+
 ABI - Application Binary Interface
 
 Q: What operation would cost Gas?
