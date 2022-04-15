@@ -47,6 +47,12 @@ The Read Only Function
 - `view` function are functions that do not change the contract state
 - `pure` cannot read or write state on the contract
 
+The Internal Function
+- Can be called by the contract itself and subclasses
+
+Fallback Function
+- Cannot be called by the contract itself, it may only be called from the outside
+
 [Rinkeby Testnet](https://faucets.chain.link/rinkeby)
 
 ### Game Contract
