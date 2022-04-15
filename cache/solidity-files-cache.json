@@ -217,6 +217,44 @@
       "artifacts": [
         "TestHero"
       ]
+    },
+    "/Users/haoping/dev/gm-web3/contracts/DelegateA.sol": {
+      "lastModificationDate": 1650033786908,
+      "contentHash": "20fb863574f1732f139bf0877d9a9464",
+      "sourceName": "contracts/DelegateA.sol",
+      "solcConfig": {
+        "version": "0.8.12",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "hardhat/console.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "A",
+        "B"
+      ]
     }
   }
 }
